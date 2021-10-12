@@ -2,8 +2,8 @@
 
 C.H. Robinson works with customers who need to find carriers to ship goods, and who can drive those goods from an origin location to a destination location. When customers need CH Robinson to perform these services, they request an order. C.H. Robinson, for a variety of reasons,
 may decide to reject the order, accept the order, or create another status for the order. For this project, I built three classifiers leveraging **logistic regression**, **descision tree**, and **random forest modeling** that will produce predictions on the Current Condition of an order request. This modeling could potentially be used to:
-* inform customers of the predicted Condition of their order just after placement
-* inform CH Robinson of the characteristics of an order that lead to unpleasurable outcomes (Waiting status', Rejection, Withdrawn, Cancelled) and potentially opportunities for request form optimization, route specialization, etc.
+* Inform customers of the predicted Condition of their order just after placement
+* Inform CH Robinson of the characteristics of an order that lead to unpleasurable outcomes (Waiting status', Rejection, Withdrawn, Cancelled) and potentially opportunities for request form optimization, route specialization, etc.
 * Show potential opportunities for request form optimization, route specialization, etc.
 
 
